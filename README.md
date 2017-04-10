@@ -1,2 +1,2 @@
 # netcon9
-app server
+app server request handler with mysql persistent sessions.
